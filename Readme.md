@@ -3,7 +3,6 @@
 What is Git and Github
 
 ```
-javascript,
-python,
-c++
+Git is a software
+Github is a service
 ```
